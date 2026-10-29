@@ -1,6 +1,6 @@
 # Database Performance Study: MongoDB & Neo4j
 
-Designing, querying and optimising the a Stack Overflow dataset in a **document database** (MongoDB) and a **graph database** (Neo4j), measuring how the design choices affect query performance. Built for the Large-Scale Databases module of my Computer Science BSc at Cardiff University, 2024.
+Designing, querying and optimising a Stack Overflow dataset in a **document database** (MongoDB) and a **graph database** (Neo4j), measuring how the design choices affect query performance. Built for the Large-Scale Databases module of my Computer Science BSc at Cardiff University, 2024.
 
 The dataset was provided for the module and isn't included, so the scripts are here to read rather than to run as-is.
 
